@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilnoza Sher (Dileen Mollis)</h1>
+
 <h3 align="center">A Quality Assurance engineer, Manual Software tester</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileen-mollis&label=Profile%20views&color=0e75b6&style=flat" alt="dileen-mollis" /> </p>
@@ -89,5 +90,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dileen-mollis)
