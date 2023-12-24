@@ -36,7 +36,7 @@
 <li> <a href="https://github.com/dileen-mollis/charles-proxy">Traffic interception via Charles Proxy</a>  </li>
 <li> <a href="https://github.com/dileen-mollis/bash-commands/blob/main/task1.txt"> Bash: Task 1</a>  </li>
 <li> <a href="https://github.com/dileen-mollis/bash-commands-task2/blob/main/task2.txt"> Bash: Task 2</a>  </li>
-<!-- <li> <a href="https://github.com/osukhorukova/git"> Git </a> </li> -->
+<li> <a href="https://github.com/dileen-mollis/Git/blob/main/task1-portfolio.txt"> Git </a> </li>
 </ul>
 </p>
 
