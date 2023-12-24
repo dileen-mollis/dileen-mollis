@@ -24,16 +24,23 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dileen-mollis&show_icons=true&locale=en&layout=compact" alt="dileen-mollis" /></p> -->
 
-<!-- ### 🤝 Социальные сети:
+### 🤝 Социальные сети:
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div> -->
+<h2>Testing Artefacts</h2>
+<p> 
+ <ul>
+<li>  <a href="https://github.com/dileen-mollis/Demo-web-shop-testing">Web App testing: Demo web shop</a>  </li>
+<li>  <a href="https://github.com/dileen-mollis/Guru99-telecom-testing"> Web App testing: Guru99 telecom</a>   </li>
+<li> <a href="https://github.com/dileen-mollis/api-testing">REST and SOAP API testing via Postman
+</a>   </li>
+<li>  <a href="https://github.com/dileen-mollis/data-base-testing">Data base testing (MySQL Workbench, MongoDB Compass)</a>  </li>
+<li>  <a href="https://github.com/dileen-mollis/mobile"> Mobile application Testing. Android Stuodio, Xcode</a>   </li>
+<li> <a href="https://github.com/dileen-mollis/charles-proxy">Traffic interception via Charles Proxy</a>  </li>
+<li> <a href="https://github.com/dileen-mollis/bash-commands/blob/main/task1.txt"> Bash: Task 1</a>  </li>
+<li> <a href="https://github.com/dileen-mollis/bash-commands-task2/blob/main/task2.txt"> Bash: Task 2</a>  </li>
+<!-- <li> <a href="https://github.com/osukhorukova/git"> Git </a> </li> -->
+</ul>
+</p>
 
 ---
 
