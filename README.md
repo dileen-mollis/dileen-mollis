@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **mullakhanovad@gmail.com**
 
-- 📄 Know about my experiences [https://europa.eu/europass/eportfolio/screen/share/0dedf1d7-7b9f-4d17-82c5-90bbce9411f5?lang=en](https://europa.eu/europass/eportfolio/screen/share/0dedf1d7-7b9f-4d17-82c5-90bbce9411f5?lang=en)
+- 📄 Know about my experiences <a href="https://europa.eu/europass/eportfolio/screen/share/0dedf1d7-7b9f-4d17-82c5-90bbce9411f5?lang=en">Resume</a>
+<!-- [https://europa.eu/europass/eportfolio/screen/share/0dedf1d7-7b9f-4d17-82c5-90bbce9411f5?lang=en](https://europa.eu/europass/eportfolio/screen/share/0dedf1d7-7b9f-4d17-82c5-90bbce9411f5?lang=en) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
