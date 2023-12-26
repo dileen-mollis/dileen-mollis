@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mullakhanovad@gmail.com**
   
-- <p align="left"><a href="https://docs.google.com/document/d/14vMuV_mWOp8za9xYL1lhBTTMa3KyRJnK/edit" target="blank">My CV</a></p>
+- <p align="left"><a href="" target="blank">My CV</a></p>
 
 
 <h2 align="left">Connect with me:</h2>
