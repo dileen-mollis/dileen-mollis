@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Padishah**
 
-- 🌱 I’m currently learning **Functional (manual) Software Testing**
+- 🌱 I’m currently learning **Functional (manual) Software Testing** by Artsiom Rusau
 
 - 💬 Ask me about **software and mobile application testing**
 
