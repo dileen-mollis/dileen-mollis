@@ -12,11 +12,11 @@
 - 💬 Ask me about **software and mobile application testing**
 
 - 📫 How to reach me **mullakhanovad@gmail.com**
+  
+- <p align="left"><a href="https://docs.google.com/document/d/14vMuV_mWOp8za9xYL1lhBTTMa3KyRJnK/edit" target="blank">My CV</a></p>
 
-- 📄 Know about my experiences <a href="https://europa.eu/europass/eportfolio/screen/share/0dedf1d7-7b9f-4d17-82c5-90bbce9411f5?lang=en">Resume</a>
-<!-- [https://europa.eu/europass/eportfolio/screen/share/0dedf1d7-7b9f-4d17-82c5-90bbce9411f5?lang=en](https://europa.eu/europass/eportfolio/screen/share/0dedf1d7-7b9f-4d17-82c5-90bbce9411f5?lang=en) -->
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/qa-engineer-dilnoza-mullakhanova/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilnoza mullakhanova" height="30" width="40" /></a>
 </p>
