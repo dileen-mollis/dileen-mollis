@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mullakhanovad@gmail.com**
   
-- <p align="left"><a href="https://github.com/dileen-mollis/my-cv/blob/main/README.md" target="blank">My CV</a></p>
+- <p align="left"><a href="https://drive.google.com/file/d/1rcJnap62OpKqF1JZSoo8WRvyimyuP5j4/view?usp=sharing" target="blank">My CV</a></p>
 
 
 <h2 align="left">Connect with me:</h2>
