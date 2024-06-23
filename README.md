@@ -8,7 +8,6 @@
 ![c87d181261c8bfe76226d7fccdd0fc5b](https://github.com/dileen-mollis/dileen-mollis/assets/82514035/3cf361ed-3359-420b-a654-25937b5b9173)
 
 
-- 🔭 I’m currently working on **Padishah**
 
 - 🌱 I’m currently learning **Automated Testing in Python** from EPAM
 
