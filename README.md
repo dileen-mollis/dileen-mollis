@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Padishah**
 
-- 🌱 I’m currently learning **Automation Testing with JAVA**
+- 🌱 I’m currently learning **Automated Testing in Python** from EPAM
 
 - 💬 Ask me about **software and mobile application testing**
 
