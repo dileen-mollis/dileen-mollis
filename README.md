@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mullakhanovad@gmail.com**
   
-- <p align="left"><a href="[file:///Users/dilnoza/Downloads/Mullakhanova_QA-engineer.docx.pdf](https://docs.google.com/document/d/14vMuV_mWOp8za9xYL1lhBTTMa3KyRJnK/edit?usp=sharing&ouid=106766528004819424472&rtpof=true&sd=true)" target="blank">My CV</a></p>
+- <p align="left"><a href="(https://docs.google.com/document/d/14vMuV_mWOp8za9xYL1lhBTTMa3KyRJnK/edit?usp=sharing&ouid=106766528004819424472&rtpof=true&sd=true)" target="blank">My CV</a></p>
 
 
 <h2 align="left">Connect with me:</h2>
