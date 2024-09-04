@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Automated Testing in Python** from EPAM
+- 🌱 I’m currently learning **Automated Testing in Python and Java** from EPAM
 
 - 💬 Ask me about **software and mobile application testing**
 
