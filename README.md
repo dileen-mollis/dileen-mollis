@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilnoza Mullakhanova (Dileen Mollis)</h1>
 
-<h3 align="center">A Quality Assurance engineer</h3>
+<h3 align="center">A QA Automation engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileen-mollis&label=Profile%20views&color=0e75b6&style=flat" alt="dileen-mollis" /> </p>
 <img align="right" src="https://i.ibb.co/X2kh3m4/image-862403161714598015721.gif" alt="image-862403161714598015721" height="300">
