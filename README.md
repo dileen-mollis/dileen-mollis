@@ -9,9 +9,9 @@
 
 
 
-- 🌱 I’m currently learning **Automated Testing in Python and Java** from Redrover School
+- 🌱 I’m currently learning **Automated Testing in Java** from Redrover School
 
-- 💬 Ask me about **software and mobile application testing**
+- 💬 Ask me about **software application testing**
 
 - 📫 How to reach me **mullakhanovad@gmail.com**
   
