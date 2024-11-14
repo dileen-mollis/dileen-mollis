@@ -37,7 +37,7 @@ Codewars profile: https://www.codewars.com/users/Dilnoza_Sher
 
 ### Java
 
-- [If you can't sleep, just count sheep!!](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/If%20you%20can't%20sleep%2C%20just%20count%20sheep!!)
+- [If you can't sleep, just count sheep!!](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/CountSheep.md)
 
 ---
 
