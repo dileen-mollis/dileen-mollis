@@ -37,15 +37,7 @@ Codewars profile: https://www.codewars.com/users/Dilnoza_Sher
 
 ### Java
 
-- [Create Phone Number](https://github.com/michan94/codewars/blob/master/Solutions/Java/createPhoneNumber.md)
-
-- [Find the Parity Outlier](https://github.com/michan94/codewars/blob/master/Solutions/Java/findTheParityOutlier.md)
-
-- [Isogram](https://github.com/michan94/codewars/blob/master/Solutions/Java/isogram.md)
-
-- [Two Sum](https://github.com/michan94/codewars/blob/master/Solutions/Java/twoSum.md)
-
-- [Bouncing Balls](https://github.com/michan94/codewars/blob/master/Solutions/Java/bouncingBalls.md)
+- [If you can't sleep, just count sheep!!](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/If%20you%20can't%20sleep%2C%20just%20count%20sheep!!)
 
 ---
 
