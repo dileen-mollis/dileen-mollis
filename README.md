@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Automated Testing in Java** from Redrover School
 
-- 💬 Ask me about **software application testing**
+- 💬 I'm actively seeking opportunities in automated testing
 
 - 📫 How to reach me **mullakhanovad@gmail.com**
   
