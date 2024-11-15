@@ -45,6 +45,9 @@ Codewars profile: https://www.codewars.com/users/Dilnoza_Sher
 - Task: [Convert a Number to a String!](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/numberToString.md)
 - Task: [Opposites Attract](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/OppositesAttract.md)
 - Task: [You Can't Code Under Pressure #1](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/doubleInteger.md)
+- Task: [Abbreviate a Two Word Name](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/AbbreviateTwoWords.md)
+- Task: [Returning Strings](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/greet.md)
+- Task: [Basic variable assignment](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/BasicVariableAssignment.md)
 
 ---
 
