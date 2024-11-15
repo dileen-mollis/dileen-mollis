@@ -38,6 +38,8 @@ Codewars profile: https://www.codewars.com/users/Dilnoza_Sher
 ### Java
 
 - [Task: If you can't sleep, just count sheep!!](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/CountSheep.md)
+- [Task: I love you, a little , a lot, passionately ... not at all](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/howMuchILoveYou.md)
+
 
 ---
 
