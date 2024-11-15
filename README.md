@@ -39,9 +39,12 @@ Codewars profile: https://www.codewars.com/users/Dilnoza_Sher
   <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" title="java" alt="java" width="40" height="40"/>&nbsp
 </div>
 
-- [Task: If you can't sleep, just count sheep!!](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/CountSheep.md)
-- [Task: I love you, a little , a lot, passionately ... not at all](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/howMuchILoveYou.md)
-
+- Task: [If you can't sleep, just count sheep!!](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/CountSheep.md)
+- Task: [I love you, a little , a lot, passionately ... not at all](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/howMuchILoveYou.md)
+- Task: [Find the smallest integer in the array](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/SmallestIntegerFinder.md)
+- Task: [Convert a Number to a String!](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/numberToString.md)
+- Task: [Opposites Attract](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/OppositesAttract.md)
+- Task: [You Can't Code Under Pressure #1](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/JAVA/doubleInteger.md)
 
 ---
 
