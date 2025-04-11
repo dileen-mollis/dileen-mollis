@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilnoza Mullakhanova (Dileen Mollis)</h1>
 
-<h3 align="center">a QA Automation engineer</h3>
+<h3 align="center">a QA & AQA engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dileen-mollis&label=Profile%20views&color=0e75b6&style=flat" alt="dileen-mollis" /> </p>
 <img align="right" src="https://i.ibb.co/X2kh3m4/image-862403161714598015721.gif" alt="image-862403161714598015721" height="300">
@@ -10,8 +10,6 @@
 
 
 - 🌱 I’m currently learning **Automated Testing in Python** from <a href="https://www.linkedin.com/company/redrover-school/posts/?feedView=all">Redrover School</a>
-
-- 💬 I'm actively seeking opportunities in automated testing
 
 - 📫 How to reach me **mullakhanovad@gmail.com**
   
