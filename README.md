@@ -30,7 +30,13 @@
 Codewars profile: https://www.codewars.com/users/Dilnoza_Sher
 
 ## Solutions
+<div>
+  <img src="https://https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="java" alt="java" width="40" height="40"/>&nbsp
+</div>
 
+- Task:
+
+  
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" title="java" alt="java" width="40" height="40"/>&nbsp
 </div>
