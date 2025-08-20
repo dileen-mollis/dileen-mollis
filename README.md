@@ -34,7 +34,7 @@ Codewars profile: https://www.codewars.com/users/Dilnoza_Sher
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="python" alt="python" width="40" height="40"/>&nbsp
 </div> python-programming
 
-- Task:
+- Task: [Dad is Commatose](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/Python/dad_is_Commatose.py)
 
   
 <div>
