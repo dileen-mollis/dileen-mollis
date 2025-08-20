@@ -1,5 +1,4 @@
-
-## Task
+"""Task
 
 You should write a simple function that takes string as input and checks if it is a valid Russian postal code, returning true or false.
 
@@ -18,9 +17,8 @@ Invalid postcodes:
 056879
 12A483
 1@63
-111
-**Solution:**
-```python
+111"""
+
 def zipvalidate(postcode):
     return len(str(postcode))==6 and str(postcode).isdigit() and str(postcode[0]) not in "05789"
-```
+
