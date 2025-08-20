@@ -32,7 +32,7 @@ Codewars profile: https://www.codewars.com/users/Dilnoza_Sher
 ## Solutions
 <div>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" title="python" alt="python" width="40" height="40"/>&nbsp
-</div>
+</div> python-programming
 
 - Task:
 
