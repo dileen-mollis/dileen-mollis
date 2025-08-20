@@ -35,6 +35,10 @@ Codewars profile: https://www.codewars.com/users/Dilnoza_Sher
 </div> python-programming
 
 - Task: [Dad is Commatose](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/Python/dad_is_Commatose.py)
+- Task: [Russian postal code checker](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/Python/russian_postal_code_checker.py)
+- Task: [Password maker](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/Python/password_maker.py)
+- Task: [Google Dorking - Validating Queries](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/Python/google_dorking_validating_queries.py)
+- Task: [Exclamation marks series #7: Remove words from the sentence if it contains one exclamation mark](https://github.com/dileen-mollis/dileen-mollis/blob/main/Codewars/Solutions/Python/remove_words.py)
 
   
 <div>
