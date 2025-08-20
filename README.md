@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Automated Testing in Python** from <a href="https://www.linkedin.com/company/redrover-school/posts/?feedView=all">Redrover School</a>
+- 🌱 I’m currently learning **Automated Testing in Python/Java** from <a href="https://www.linkedin.com/company/redrover-school/posts/?feedView=all">Redrover School</a>
 
 - 📫 How to reach me **mullakhanovad@gmail.com**
 
