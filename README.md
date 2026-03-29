@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dilnoza Mullakhanova (Dileen Mollis)</h1>
+<h1 align="center">Hi 👋, I'm Dilnoza Sher (Dileen Mollis)</h1>
 
 <h3 align="center">a QA & AQA engineer</h3>
 
