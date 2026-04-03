@@ -7,9 +7,18 @@
 
 ![c87d181261c8bfe76226d7fccdd0fc5b](https://github.com/dileen-mollis/dileen-mollis/assets/82514035/3cf361ed-3359-420b-a654-25937b5b9173)
 
+- QA Automation Engineer focused on building reliable and scalable automated testing solutions using Python. I specialize in designing and implementing test automation for web applications, with the ability to validate systems across API, UI, and database layers.
 
+What I can do:
 
-- 🌱 I’m currently learning **Automated Testing in Python/Java** from <a href="https://www.linkedin.com/company/redrover-school/posts/?feedView=all">Redrover School</a>
+• Design and implement API automation using Python, pytest, and requests
+• Build UI automated tests using Playwright
+• Create reusable and maintainable test frameworks
+• Design and execute negative and edge-case testing
+• Perform end-to-end validation (UI + API + DB)
+• Integrate tests into CI pipelines and optimize execution with Docker
+
+I am particularly interested in healthcare systems and fast-growing startups, where quality, data consistency, and system reliability are critical.
 
 - 📫 How to reach me **mullakhanovad@gmail.com**
 
